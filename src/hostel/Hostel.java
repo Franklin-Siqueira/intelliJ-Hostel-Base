@@ -5,6 +5,7 @@ import hostel.model.Room;
 
 public class Hostel {
     public static void main(String[] args) {
+        // To do: Rates class,
 
         /*int a = 2;
         int b = 1;
