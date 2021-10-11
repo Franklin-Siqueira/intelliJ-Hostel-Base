@@ -9,7 +9,9 @@
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)  [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npmjs.com/)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Franklin-Siqueira&theme=blue-green)](https://github.com/Franklin-Siqueira/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Franklin-Siqueira&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Franklin-Siqueira&theme=blue-green)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Franklin-Siqueira&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Franklin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-Siqueira&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
