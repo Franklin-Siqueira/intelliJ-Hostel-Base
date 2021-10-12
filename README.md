@@ -30,7 +30,7 @@ This repository contains the files created in the introduction to [IntelliJ Idea
 
 *_Keywords:_*
 
-IntelliJ, Idea, CE, Community, Edition, Introduction, Java, Git, GitHub, DIO, Capgemini, Fullstack, Angular, Course.
+IntelliJ-Idea-CE Community-Edition Introduction Java Git GitHub DIO Capgemini Fullstack Angular Course
 
 #### Requisitos de Ambiente
 
@@ -39,5 +39,5 @@ IntelliJ, Idea, CE, Community, Edition, Introduction, Java, Git, GitHub, DIO, Ca
 - Java Virtual Machine (JVM);
 - IntelliJ Idea 2021.2.2 (Community Edition);
 
-
+---
 
